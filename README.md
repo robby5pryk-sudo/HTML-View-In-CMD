@@ -1,7 +1,7 @@
 # HTML-View-In-CMD
  HTML can be displayed within CMD.
 
- This proggram need:
+ This Aplication need:
 
 Node.js
 NPM
